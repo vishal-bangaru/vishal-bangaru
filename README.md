@@ -3,9 +3,8 @@
 
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vishal-bangaru" alt="vishal-bangaru" /></a> </p>
 
-- 💬 Ask me about **MERN Stack,Databases**
+- 💬 Ask me about **ReactJs,NodeJs,Redux,SQL,MongoDB**
 
 - 📫 How to reach me **vishalbangaru4@gmail.com**
 
